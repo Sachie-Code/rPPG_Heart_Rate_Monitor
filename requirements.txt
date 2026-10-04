@@ -1,0 +1,8 @@
+streamlit
+streamlit-webrtc
+opencv-python
+numpy
+scipy
+plotly
+av
+mediapipe==0.10.21
